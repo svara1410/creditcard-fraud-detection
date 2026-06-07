@@ -1,0 +1,7 @@
+venv/
+creditcard.csv
+__pycache__/
+*.pyc
+*.pkl
+cm_upload.png
+stats.png
