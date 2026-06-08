@@ -121,25 +121,25 @@ creditcard-fraud-detection/
 ## 📈 Key Visualizations
 
 ### Class Distribution (Before SMOTE)
-![Class Distribution](class_distribution.png)
+![Class Distribution](images/class_distribution.png)
 
 ### Transaction Amount — Fraud vs Legitimate
-![Amount Distribution](amount_distribution.png)
+![Amount Distribution](images/amount_distribution.png)
 
 ### When Fraud Happens — Time Analysis
-![Time Analysis](time_analysis.png)
+![Time Analysis](images/time_analysis.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Fraud-Specific Correlations
-![Fraud Correlation](fraud_correlation.png)
+![Fraud Correlation](images/fraud_correlation.png)
 
 ### Random Forest — Feature Importance
-![Feature Importance](feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ### Model Performance — Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
